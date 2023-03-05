@@ -6,4 +6,5 @@ First change
 Second
 My boss is stupid
 So stupid
-Creating branch dev 
+Creating branch dev
+Creating branch feature1 is Quick Annd Simple
