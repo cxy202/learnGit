@@ -6,5 +6,4 @@ First change
 Second
 My boss is stupid
 So stupid
-Creating branch dev 
-Quick &Simple
+creating branch is quick and simple
