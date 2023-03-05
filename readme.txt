@@ -7,3 +7,4 @@ Second
 My boss is stupid
 So stupid
 creating branch is quick and simple
+禁用Fast-Forward模式
